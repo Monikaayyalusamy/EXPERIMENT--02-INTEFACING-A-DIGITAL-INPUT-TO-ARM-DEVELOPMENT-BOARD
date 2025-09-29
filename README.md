@@ -1,6 +1,13 @@
-# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
-## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
+# Name : Monika A
+# Reg no : 212224240094
+# EXPERIMENT 02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
+
+## Aim:
+To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
+
+## Components required:
+STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
+
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
@@ -169,14 +176,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/97a157c8-8bdb-4af2-ac15-eee294865bb3" />
-<img width="1011" height="711" alt="image" src="https://github.com/user-attachments/assets/3399c6e4-9234-4fdb-bbcf-661de435d80b" />
-
-
- 
-## layout of the circuit 
-<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/2709be35-9b9d-41d1-9848-2d7ac3d9f3e7" />
-
 ## ON
 <img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/5e9d9d20-9651-4776-a99d-f1f2e4a70e83" />
 
